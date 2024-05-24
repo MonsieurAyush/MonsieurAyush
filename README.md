@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Sharma</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw1XMDWvazrEHqnTF9ymsidu&ust=1716635810443000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCR0fCUpoYDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw1XMDWvazrEHqnTF9ymsidu&ust=1716635810443000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCR0fCUpoYDFQAAAAAdAAAAABA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5iCK0gjfk9Akkx-idrYlPWDgL67eB4yu8Sjq1cZzo7A5Bpvs2pUTYoRx_SoObYU7nZU&usqp=CAU)">
 
 <h3 align="center">A passionate front end developer and blockchain enthusiast</h3>
 
