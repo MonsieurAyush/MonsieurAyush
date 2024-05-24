@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Sharma</h1>
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-4375641")
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-4375641">
 
 <h3 align="center">A passionate front end developer and blockchain enthusiast</h3>
 
